@@ -1,6 +1,6 @@
 ---
 title: Setup Terraform
-tags: []
+tags: ['Terraform', 'Terraform Setup', 'AudioBook']
 ---
 
 # Prerequisites
